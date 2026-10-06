@@ -1,6 +1,6 @@
 # NeMo.bil fleet planning
 
-Software and results for strategic fleet planning in the NeMo.bil project. Given a demand and a charging infrastructure, the fleet planning search determines how many cab and Pro vehicles to use. The work is developed at the University of Paderborn.
+Software and results for strategic fleet planning in the NeMo.bil project. Given a demand and a charging infrastructure, the fleet planning search determines how many cab and Pro vehicles to use. The work is developed at the Paderborn University.
 
 The project is split across two repositories in the [upb-nemobil-fleet-sizing](https://github.com/upb-nemobil-fleet-sizing) organization:
 
